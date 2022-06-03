@@ -31,8 +31,7 @@ Adding links to the organization or user Page to each of the labs and projects
 
 ## Project Deliverables:
 
-### 1. p7.txt
-[p7.txt](p7.txt)
+### 1. [p7.txt](p7.txt)
 
 
 
